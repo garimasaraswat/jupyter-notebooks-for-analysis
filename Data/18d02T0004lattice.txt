@@ -1,0 +1,19 @@
+Measure Lattice
+File	F:\Data\4K\March2018\18d02\18d02T0004.SM4		
+Image	Filtered Data 5		
+
+First vector
+X-component (a1x)	241.786		pm
+Y-component (a1y)	366.734		pm
+Length (a₁)	439.266		pm
+Direction (φ₁)	56.60		deg
+
+Second vector
+X-component (a2x)	-189.115		pm
+Y-component (a2y)	405.762		pm
+Length (a₂)	447.669		pm
+Direction (φ₂)	114.99		deg
+
+Primitive cell
+Area (A)	167463		pm²
+Angle (φ)	58.39		deg

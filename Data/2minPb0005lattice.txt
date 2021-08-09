@@ -1,0 +1,19 @@
+Measure Lattice
+File	F:\Data\4K\March2018\18c23\2minPb0005.SM4		
+Image	Detail 4		
+
+First vector
+X-component (a1x)	-2.09907		nm
+Y-component (a1y)	1.01428		nm
+Length (a₁)	2.33128		nm
+Direction (φ₁)	154.21		deg
+
+Second vector
+X-component (a2x)	-2.03955		nm
+Y-component (a2y)	-1.24555		nm
+Length (a₂)	2.38981		nm
+Direction (φ₂)	-148.59		deg
+
+Primitive cell
+Area (A)	4.68318		nm²
+Angle (φ)	57.20		deg
